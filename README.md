@@ -6,12 +6,13 @@ their are various tags in html that gives webpage a different colour or font siz
 <!doctype html>
  <html>
     <head>
-        <title></title>
+        <title>title of the project</title>
     </head>
 <body>
     body of html code
 </body>
- </html>```
+ </html>
+ ```
 
  ### The html used following basic tags:
  - `<b></b>` to give bold effect to the text
